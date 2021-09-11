@@ -1,5 +1,7 @@
 @font-face {
-    font-family: "Meng Shen", "Jing Nan Mai Yuan";
-    src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/mengshenshouxieti.woff2") format("woff2"),
+    font-family: "Meng Shen";
+    src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/mengshenshouxieti.woff2") format("woff2");
+    
+    font-family: "Jing Nan Mai Yuan";
     src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/jingnanmaiyuanti.woff2") format("woff2");
   }

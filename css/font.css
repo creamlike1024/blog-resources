@@ -1,7 +1,25 @@
 @font-face {
   font-family: "Meng Shen";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/mengshenshouxieti.woff2") format("woff2");
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/MengShenShouXieTi.woff2") format("woff2");
 
-  font-family: "Jing Nan Yuan Mai";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/jingnanyuanmai.ttf") format("ttf");
+  font-family: "Zhu Zi A Wan";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/ZhuZiAWan.woff2") format("woff2");
+
+  font-family: "Zhu Zi B Wan";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/ZhuZiBWan.woff2") format("woff2");
+
+  font-family: "Fang Zheng Zhun Yuan";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/FangZhengZhunYuan.woff2") format("woff2");
+
+  font-family: "HY Liang Pin Xian Cu";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/HYLiangPinXianCu.woff2") format("woff2");
+
+  font-family: "Qing Yuan";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/QingYuan.woff2") format("woff2");
+
+  font-family: "ST Heiti SC Light";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/STHeitiSC-Light.woff2") format("woff2");
+
+  font-family: "ST Heiti SC Medium";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/STHeitiSC-Medium.woff2") format("woff2");
 }

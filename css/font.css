@@ -1,26 +1,18 @@
 @font-face {
-  /*font-family: "Meng Shen";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/MengShenShouXieTi.woff2") format("woff2");
-*/
-  /*font-family: "Zhu Zi A Wan";
+/*
+  font-family: "Zhu Zi A Wan";
   src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/ZhuZiAWan.woff2") format("woff2");
 */
-  font-family: "Zhu Zi B Wan";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/ZhuZiBWan.woff2") format("woff2");
+/*
+  font-family: "HY Liang Pin Xian";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/HYLiangPinXian.woff2") format("woff2");
+*/
 
-  /*font-family: "Fang Zheng Zhun Yuan";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/FangZhengZhunYuan.woff2") format("woff2");
-*/
-  /*font-family: "HY Liang Pin Xian Cu";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/HYLiangPinXianCu.woff2") format("woff2");
-*/
-  /*font-family: "Qing Yuan";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/QingYuan.woff2") format("woff2");
-*/
-  /*font-family: "ST Heiti SC Light";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/STHeitiSC-Light.woff2") format("woff2");
-*/
-  /*font-family: "ST Heiti SC Medium";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/STHeitiSC-Medium.woff2") format("woff2");
-*/
+  font-family: "Lai Hu";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/LaiHuSC.woff2") format("woff2");
+
+}
+div{
+  font-size: 17px;
+  font-weight: bold;
 }

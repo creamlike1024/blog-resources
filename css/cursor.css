@@ -1,7 +1,7 @@
 body {
-	cursor: url(https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources@latest/cursor/default.cur),default
+	cursor: url(https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources@latest/cursor/default.cur),auto
 }
 
 a,button,img {
-	cursor: url(https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources@latest/cursor/pointer.cur),default
+	cursor: url(https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources@latest/cursor/pointer.cur),auto
 }

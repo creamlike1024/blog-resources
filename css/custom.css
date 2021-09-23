@@ -1,0 +1,55 @@
+/*背景透明，最后一个数值是透明度*/
+/* 首页文章卡片 */
+#recent-posts > .recent-post-item{
+    background:rgba(255, 255, 255, 0.5);
+}
+/* 首页侧栏卡片 */
+.card-widget{
+  background:rgba(255, 255, 255, 0.5)!important;
+}
+/* 文章页面正文背景 */
+div#post{
+  background: rgba(255, 255, 255, 0.5);
+}
+/* 分页页面 */
+div#page{
+  background: rgba(255, 255, 255, 0.5);
+}
+/* 归档页面 */
+div#archive{
+  background: rgba(255, 255, 255, 0.5);
+}
+/* 标签页面 */
+div#tag{
+  background: rgba(255, 255, 255, 0.5);
+}
+/* 分类页面 */
+div#category{
+  background: rgba(255, 255, 255, 0.5);
+}
+
+
+/* 1s为加载动画的时间，1为加载动画的次数，ease-in-out为动画效果*/
+#page-header,
+#web_bg {
+    -webkit-animation: imgblur 1s 1 ease-in-out;
+    animation: imgblur 1s 1 ease-in-out;
+}
+@keyframes imgblur {
+  0% {
+    filter: blur(5px);
+  }
+  100% {
+    filter: blur(0px);
+  }
+}
+/*适配使用-webkit内核的浏览器 */
+@-webkit-keyframes imgblur {
+  0% {
+    -webkit-filter: blur(5px);
+  }
+  100% {
+    -webkit-filter: blur(0px);
+  }
+}
+

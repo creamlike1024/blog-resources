@@ -1,18 +1,11 @@
 @font-face {
-/*
-  font-family: "Zhu Zi A Wan";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/ZhuZiAWan.woff2") format("woff2");
-*/
-/*
-  font-family: "HY Liang Pin Xian";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/HYLiangPinXian.woff2") format("woff2");
-*/
-
-  font-family: "Xiao Lai";
-  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/XiaoLai.woff2") format("woff2");
+  font-family: "Xiao Lai Title";
+  src: url("https://cdn.jsdelivr.net/gh/icedtangerine7/blog-resources/fonts/XiaoLai-title.woff2") format("woff2");
   /*font-display: swap;*/
   /*font-display:[auto, swap, fallback, optional]设为swap时先显示后备文本，字体加载好时再切换*/
 }
+/*
 div{
   font-size: 17px;
 }
+*/
